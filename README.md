@@ -3,6 +3,7 @@ Javascript fundamentals
 
 
 Understanding JavaScript fundamentals
+
 When talking about JavaScript, it is important that you use the correct terminology. This way, if you talk about code with others, they'll understand what you mean without any ambiguity.
 
 Variables
